@@ -36,11 +36,35 @@ Our main architecture
 
 ## Installation
 
-You can install this repository directly from github.
-```
-git pull https://github.com/Zahid672/cardio-segmentation-main.git main
+Clone the repository and install dependencies:
+
+```bash
+# Clone the repository
+git clone https://github.com/Zahid672/cardio-segmentation.git
+cd cardio-segmentation
+
+# Install required Python packages
+pip install -r requirements.txt
 ```
 
+## Requirements
+
+The main dependencies are listed in `requirements.txt`:
+- numpy
+- opencv-python
+- SimpleITK
+- matplotlib
+- scikit-image
+- h5py
+- tqdm
+- torch
+- torchvision
+- pandas
+
+Optional (for specific models):
+- timm (for DPT models)
+- CUDA-enabled torch (for GPU acceleration)
+- Additional dependencies for CANet, nnUNet, extended_nnUNet if not included above
 
 ## Dataset Support
 

@@ -1,0 +1,18 @@
+numpy
+opencv-python
+SimpleITK
+matplotlib
+scikit-image
+h5py
+tqdm
+torch
+torchvision
+pandas
+
+# If using CUDA
+# torch==<your-cuda-version>
+
+# If using DPT models
+# timm
+
+# If using CANet, nnUNet, extended_nnUNet, add their dependencies if not included above
