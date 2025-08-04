@@ -67,7 +67,7 @@ Our results show significant improvement over current state of the art architect
 
 
 
-![CardiacNet-Results](Figures/comparison_table_Cardiac.png)
+![CardiacNet-Results](Figures/comparison_table_cardiac.png)
 
 
 ## Citation
