@@ -71,7 +71,7 @@ Optional (for specific models):
 The project currently supports the following datasets:
 
 - CAMUS Dataset
-- ACDC Dataset (Automated Cardiac Diagnosis Challenge)
+- CardiacNet dataset
 
 
 
