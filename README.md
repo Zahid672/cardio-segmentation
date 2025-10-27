@@ -95,5 +95,14 @@ Our results show significant improvement over current state of the art architect
 
 
 ## Citation
+If you find our work useful in your research, please consider citing:
 
-will be added after publication
+@article{ullah2025anatomically,
+  title={Anatomically accurate cardiac segmentation using Dense Associative Networks},
+  author={Ullah, Zahid and Kim, Jihie},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={162},
+  pages={112742},
+  year={2025},
+  publisher={Elsevier}
+}
